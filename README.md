@@ -13,11 +13,11 @@ Jupyter Notebook is included as part of the Anaconda distribution.
 ## 2. Clone the Project Repository
 The project repository is hosted at: https://github.com/chaoxiadeng24-crypto/GIS-Project
 
-Open Anaconda Prompt. Navigate to the desired directory using the `cd` command, then clone the repository. For example, 
+Open Anaconda Prompt. Navigate to the desired directory using the `cd` command. For example, 
 ```bash
 cd C:\Users\YourUsername\Documents\GIS-Project
 ```
-Then run the following command:
+Then clone the repository:
 ```bash
 git clone https://github.com/chaoxiadeng24-crypto/GIS-Project
 ```
