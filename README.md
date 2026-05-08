@@ -1,8 +1,6 @@
 # Land Cover and Population Density Analysis Across Wards in Northern Ireland
 How to Install and Run the Code
 
-The project repository is hosted at: https://github.com/chaoxiadeng24-crypto/GIS-Project
-
 ## 1. Software Installation
 To run the code, both Git and Conda need to be installed on your computer.
 
@@ -13,6 +11,8 @@ To install **Conda**, Anaconda can be downloaded from the official website: http
 Jupyter Notebook is included as part of the Anaconda distribution.
 
 ## 2. Clone the Project Repository
+The project repository is hosted at: https://github.com/chaoxiadeng24-crypto/GIS-Project
+
 Open Anaconda Prompt. Navigate to the desired directory using the `cd` command, then clone the repository. For example, 
 ```bash
 cd C:\Users\YourUsername\Documents\GIS-Project
