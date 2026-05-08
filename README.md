@@ -17,7 +17,7 @@ Open Anaconda Prompt. Navigate to the desired directory using the `cd` command. 
 ```bash
 cd C:\Users\YourUsername\Documents\GIS-Project
 ```
-Then clone the repository:
+Then clone the repository by running the following command:
 ```bash
 git clone https://github.com/chaoxiadeng24-crypto/GIS-Project
 ```
@@ -26,21 +26,18 @@ This will download the repository to your computer.
 ## 3. Set Up the Conda Environment
 After successfully cloning the repository, a **Conda** environment can be created to work on the project by using the provided **environment.yml** file. 
 
-If using Anaconda Navigator, select **"Import"** from the bottom of the Environments panel to create the environment. 
-
-Alternatively, navigate to the project directory.
+You can create the environment using Anaconda Prompt. First navigate to the project directory:
 ```bash
 cd GIS-Project
 ```
-Run the following commands in Anaconda Prompt to create the environment:
+Then create the environment:
 ```bash
 conda env create -f environment.yml
 ```
+Alternatively, if you are using Anaconda Navigator, select **"Import"** from the bottom of the Environments panel to create the environment. 
 
 ## 4. Run the Project 
-In Anaconda Navigator, launch JupyterLab and navigate to the folder containing the project files. Ensure that the **gis-project** environment is activated.
-
-Alternatively, in Anaconda Prompt, navigate to the project directory and activate the environment using command: 
+In Anaconda Prompt, navigate to the project directory and activate the environment using command: 
 ```bash
 conda activate gis-project
 ```
@@ -48,6 +45,8 @@ Then launch Jupyter Lab:
 ```bash
 jupyter lab
 ```
+Alternatively, launch JupyterLab from Anaconda Navigator and navigate to the folder containing the project files. Ensure that the **gis-project** environment is activated. 
+
 This will open a web browser displaying the contents of the current directory.
 
 Open the notebook file **(Landcover_Population_Analysis.ipynb)** and run all cells from top to bottom.
