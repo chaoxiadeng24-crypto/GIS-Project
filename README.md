@@ -45,9 +45,9 @@ Then launch Jupyter Lab:
 ```bash
 jupyter lab
 ```
-Alternatively, launch JupyterLab from Anaconda Navigator and navigate to the folder containing the project files. Ensure that the **gis-project** environment is activated. 
-
 This will open a web browser displaying the contents of the current directory.
 
 Open the notebook file **(Landcover_Population_Analysis.ipynb)** and run all cells from top to bottom.
+
+Alternatively, launch JupyterLab from Anaconda Navigator and navigate to the folder containing the project files. Ensure that the **gis-project** environment is activated. 
 
