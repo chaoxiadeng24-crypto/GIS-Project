@@ -24,7 +24,7 @@ git clone https://github.com/chaoxiadeng24-crypto/GIS-Project
 This will download the repository to your computer.
 
 ## 3. Set Up the Conda Environment
-After successfully cloning the repository, a Conda environment can be created to work on the project by using the provided **environment.yml** file. 
+After successfully cloning the repository, a **Conda** environment can be created to work on the project by using the provided **environment.yml** file. 
 
 If using Anaconda Navigator, select **"Import"** from the bottom of the Environments panel to create the environment. 
 
