@@ -4,9 +4,11 @@ channels:
   - defaults
 dependencies:
   - python=3.9
+  - numpy
   - pandas
   - geopandas
   - matplotlib
   - jupyterlab
   - rasterio
+  - rasterstats
   - folium
