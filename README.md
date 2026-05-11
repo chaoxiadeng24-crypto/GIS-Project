@@ -28,7 +28,7 @@ After successfully cloning the repository, a **Conda** environment can be create
 
 You can create the environment using Anaconda Prompt. First navigate to the project directory:
 ```bash
-cd GIS-Project
+cd C:\Users\YourUsername\Documents\GIS-Project
 ```
 Then create the environment:
 ```bash
@@ -39,7 +39,7 @@ Alternatively, if you are using Anaconda Navigator, select **"Import"** from the
 ## 4. Run the Project 
 In Anaconda Prompt, navigate to the project directory and activate the environment using command: 
 ```bash
-conda activate gis-project
+conda activate gis
 ```
 Then launch Jupyter Lab:
 ```bash
@@ -49,5 +49,8 @@ This will open a web browser displaying the contents of the current directory.
 
 Open the notebook file **(Landcover_Population_Analysis.ipynb)** and run all cells from top to bottom.
 
-Alternatively, launch JupyterLab from Anaconda Navigator and navigate to the folder containing the project files. Ensure that the **gis-project** environment is activated. 
+Alternatively, launch JupyterLab from Anaconda Navigator and navigate to the folder containing the project files. Ensure that the **gis** environment is activated. 
+
+**Interactive HTML Map Output**
+Interactive HTML map outputs are included in the repository. Due to file size limitations, they may not preview on GitHub but can be downloaded for local viewing in a web browser.
 
