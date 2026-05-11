@@ -51,6 +51,7 @@ Open the notebook file **(Landcover_Population_Analysis.ipynb)** and run all cel
 
 Alternatively, launch JupyterLab from Anaconda Navigator and navigate to the folder containing the project files. Ensure that the **gis** environment is activated. 
 
-**Interactive HTML Map Output**
+## Interactive HTML Map Output
+
 Interactive HTML map outputs are included in the repository. Due to file size limitations, they may not preview on GitHub but can be downloaded for local viewing in a web browser.
 
